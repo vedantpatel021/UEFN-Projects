@@ -50,11 +50,11 @@ Win Condition:
     - Keeping track of all players according to team, role, and class using map containers
     - Using map over array because we want to dynamically change the team, role, and class of players
 
-Cinamatic Sequence:
+Cinematic Sequence:
 - Overview:
-    - When a player has won the game, a cinamatic sequence shows everyone a podium with the winner
+    - When a player has won the game, a cinematic sequence shows everyone a podium with the winner
 - Logistics:
-    - Using a **cinamatic sequencer** to create a custom scene for displaying the winner
+    - Using a **cinematic sequencer** to create a custom scene for displaying the winner
 
 Custom Player Class in **Verse**:
 - Logistics:
