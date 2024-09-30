@@ -54,7 +54,7 @@ Cinamtic Sequence:
 - Overview:
     - When a player has won the game, a cinamtic sequence shows everyone a podium with the winner
 - Logistics:
-    - Using a **cinamtic sequencer** to create a custom scene for displaying the winner
+    - Using a **cinamatic sequencer** to create a custom scene for displaying the winner
 
 Custom Player Class in **Verse**:
 - Logistics:
