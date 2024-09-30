@@ -33,8 +33,12 @@ Tagging Mechanism:
 Custom Game Rounds:
 - Overview:
     - Created our own "quick-reset" round system instead of using the slow build-in round ending system
-    - Custom game rounds allows for a more continuous gameplay for our purpose because it prevents a hard reset and pause between tagger rounds
-    - 
+    - Pros of our system over build-in feature:
+        - Gameplay doesn't stop after tagger timer runs out
+        - New taggers are assigned instantly
+        - Avoids hard reseting of the island states
+    - Cons of our system over build-in feature:
+        - NONE :)
 - Logistics:
     - filler
 
