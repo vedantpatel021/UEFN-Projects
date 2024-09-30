@@ -40,25 +40,26 @@ Custom Game Rounds:
     - Cons of our system over build-in feature:
         - NONE :)
 - Logistics:
-    - filler
+    - **Scripting in Verse** for game logic of role assignment and game progression after each round
+    - Resetting proper game features for each round to simulate the same rounds in a different game state
 
 Win Condition:
 - Overview:
-    - filler
+    - Last one standing wins! Simple as that
 - Logistics:
-    - filler
- 
+    - Keeping track of all players according to team, role, and class using map containers
+    - Using map over array because we want to dynamically change the team, role, and class of players
+
 Cinamtic Sequence:
 - Overview:
-    - filler
+    - When a player has won the game, a cinamtic sequence shows everyone a podium with the winner
 - Logistics:
-    - filler
+    - Using a **cinamtic sequencer** to create a custom scene for displaying the winner
 
-Iterative Testing:
-- Overview:
-    - filler
+Custom Player Class in **Verse**:
 - Logistics:
-    - filler
+    - Allows for easier management of player data and coding our game logic
+    - Keeping track of each player's info such as team, role, and class
 
 
 
