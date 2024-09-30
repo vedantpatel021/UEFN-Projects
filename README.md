@@ -52,7 +52,7 @@ Win Condition:
 
 Cinematic Sequence:
 - Overview:
-    - When a player has won the game, a cinematic sequence shows everyone a podium with the winner
+    - When a player has won the game, a **cinematic sequence** shows everyone a podium with the winner
 - Logistics:
     - Using a **cinematic sequencer** to create a custom scene for displaying the winner
 
