@@ -10,6 +10,16 @@ Welcome to our Unreal Editor for Fortnite (UEFN) portfolio, showcasing two uniqu
 A fast-paced twist on the classic game of tag, where guns are your tagging tool. In TNT Tag, players shoot to tag each other, passing on the "it" status. The goal? Avoid being the tagger when the timer runs out. Players who are "it" at the end of the round are eliminated and enter spectator mode, while the remaining players continue. This cycle repeats until only one player is left standing to claim victory!
 
 ### Features
+Voting System:
+- Overview:
+    - At the start of the game, all players can vote for the weapon they want the taggers to play with
+- Logistics:
+    - Using **analytics device** to calculate player trends and behaviors for which weapon selections are liked by players
+    - Utilizing data from analytics to plan for future changes to weapon selection
+
+ - _**image of the weapon voting system in spawn**_
+ - _**image of the pie chart of weapon selection in analytics page**_
+
 Tagging Mechanism:
 - Overview:
     - Tagger has an explosive bomb as a head and posesses a weapon
@@ -20,12 +30,31 @@ Tagging Mechanism:
 
 - _**gif of a tagger tagging someone else and then getting tagged back**_
 
-Voting System:
+Custom Game Rounds:
 - Overview:
-    - At the start of the game, all players can vote for the weapon they want the taggers to play with
-    - _**image of the weapon voting system in spawn**_
-- Logistics:
+    - Created our own "quick-reset" round system instead of using the slow build-in round ending system
+    - Custom game rounds allows for a more continuous gameplay for our purpose because it prevents a hard reset and pause between tagger rounds
     - 
+- Logistics:
+    - filler
+
+Win Condition:
+- Overview:
+    - filler
+- Logistics:
+    - filler
+ 
+Cinamtic Sequence:
+- Overview:
+    - filler
+- Logistics:
+    - filler
+
+Iterative Testing:
+- Overview:
+    - filler
+- Logistics:
+    - filler
 
 
 
