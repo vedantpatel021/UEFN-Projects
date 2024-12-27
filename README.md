@@ -1,9 +1,9 @@
 # UEFN-Projects
 Welcome to our Unreal Editor for Fortnite (UEFN) portfolio, showcasing two unique game maps we have developed:
 - Collaborators:
-    - Vedant Patel | [LinkedIn](https://linkedin.com/in/vedantpatel021){:target="_blank"} | [GitHub](https://github.com/vedantpatel021){:target="_blank"} | [Resume](https://drive.google.com/file/d/1gzRiKlDFtCHqgYIVrLOBR5cZubGVCE3S/view?usp=sharing){:target="_blank"}
-    -  ‎ ‎  ‎ Viraj Urs‎‎ ‎ ‎ ‎ ‎ | [LinkedIn](https://linkedin.com/in/viraj-urs){:target="_blank"} | [GitHub](https://github.com/3752V){:target="_blank"} | [Resume](https://drive.google.com/file/d/1VAQRfOWPUlZf49Ywz-O6_ND-PujUr7Ff/view?usp=sharing){:target="_blank"}
-    - Vishram Urs‎ ‎‎ | [LinkedIn](https://linkedin.com/in/vishram-urs){:target="_blank"} | [GitHub](https://github.com/V-Coding){:target="_blank"} | [Resume](){:target="_blank"}
+    - Vedant Patel | <a href="https://linkedin.com/in/vedantpatel021" target="_blank">LinkedIn</a> | <a href="https://github.com/vedantpatel021" target="_blank">GitHub</a> | <a href="https://drive.google.com/file/d/1gzRiKlDFtCHqgYIVrLOBR5cZubGVCE3S/view?usp=sharing" target="_blank">Resume</a>
+    - Viraj Urs | <a href="https://linkedin.com/in/viraj-urs" target="_blank">LinkedIn</a> | <a href="https://github.com/3752V" target="_blank">GitHub</a> | <a href="https://drive.google.com/file/d/1VAQRfOWPUlZf49Ywz-O6_ND-PujUr7Ff/view?usp=sharing" target="_blank">Resume</a>
+    - Vishram Urs | <a href="https://linkedin.com/in/vishram-urs" target="_blank">LinkedIn</a> | <a href="https://github.com/V-Coding" target="_blank">GitHub</a> | <a href="#" target="_blank">Resume</a>
 
 # TNT Tag
 ### [Creative Map Page](https://www.fortnite.com/@vedant/5112-4348-4975?lang=en-US)
